@@ -4,3 +4,6 @@
 [submodule "Yolov3"]
 	path = Yolov3
 	url = https://github.com/Mona-Cyclope/Yolov3.git
+[submodule "YoloV5"]
+	path = YoloV5
+	url = https://github.com/Mona-Cyclope/YoloV5.git
