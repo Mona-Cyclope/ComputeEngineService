@@ -1,0 +1,6 @@
+[submodule "ComputeEngineManagerMTCMPS"]
+	path = ComputeEngineManagerMTCMPS
+	url = https://github.com/Mona-Cyclope/ComputeEngineManagerMTCMPS.git
+[submodule "Yolov3"]
+	path = Yolov3
+	url = https://github.com/Mona-Cyclope/Yolov3.git
